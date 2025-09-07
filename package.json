@@ -17,6 +17,7 @@
     "next": "15.5.2",
     "react": "19.1.0",
     "react-dom": "19.1.0",
+    "react-hot-toast": "^2.6.0",
     "svix": "^1.76.0",
     "zustand": "^5.0.8"
   },
