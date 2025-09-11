@@ -141,11 +141,11 @@ Visit 👉 `http://localhost:3000`
 
 | Home Page | Snippet Page |  
 |-----------|--------------|  
-| ![Home](Images\homepage.png) | ![Snippet](Images\Snippetspage.png) |  
+| ![Home](Images/homepage.png) | ![Snippet](Images/Snippetspage.png) |  
 
 | Profile Page | Pricing Page  |  
 |--------------|------------------------|  
-| ![Profile](Images\profilepage.png) | ![Pricing](Images\pricingpage.png) |  
+| ![Profile](Images/profilepage.png) | ![Pricing](Images/pricingpage.png) |  
 
 
 ---
